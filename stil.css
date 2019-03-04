@@ -212,6 +212,16 @@
     display:inline-grid;
     align-items: flex-end;
 }
+.image2 {
+    margin:10pt;
+    margin-left: 10pt;
+    background-color: white;
+    width: 50%;
+    min-width: 220pt;
+    max-width: 50%;
+    display:inline-grid;
+    text-align: center;
+}
 
 h1
 {
