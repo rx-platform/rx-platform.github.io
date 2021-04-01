@@ -7,6 +7,28 @@
   font-style: normal;
 }
 
+.banner {
+	// background : #BFC9CA;
+	color: #661a00;
+	margin-right: auto;
+    margin-left: auto;
+    margin-top: 10pt;
+    text-align: center;
+    box-sizing: border-box;
+    width: 100%;
+	min-height : 24px;
+}
+
+
+.banner_image {
+  float: right;
+}
+
+
+.banner_text {
+	float: left;
+}
+
 .wrapper {
 
     width: 100%;
